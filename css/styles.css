@@ -1,0 +1,109 @@
+.cuadro {
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #c36666 #e4dfdf #d0d1d5;
+}
+
+.inner {
+  padding: 25px;
+}
+
+.servicio {
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+  padding-top: 5px;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+.btn-secondary {
+  background-color: #fdb827;
+  border-color: #fdb827;
+  color: #4c3300;
+}
+
+.whatsapp {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 75px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  z-index: 100;
+}
+
+.whatsapp-icon {
+  margin-top: 13px;
+}
+.section-heading {
+  text-align: left;
+  margin-bottom: 60px;
+  border-bottom: 1px solid #eee;
+}
+
+.section-heading h2 {
+  font-size: 28px;
+  font-weight: 400;
+  color: #1e1e1e;
+  margin-bottom: 15px;
+}
+
+.best-features {
+  margin-top: 55px;
+  margin-bottom: 50px;
+}
+
+.best-features .container .row {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 60px;
+}
+
+.best-features img {
+  width: 100%;
+  overflow: hidden;
+}
+
+.best-features h4 {
+  font-size: 17px;
+  color: #1a6692;
+  margin-bottom: 20px;
+}
+
+.best-features p {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+.about-features {
+  margin-top: 50px !important;
+}
+
+.about-features p {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+}
+
+.about-features .container .row {
+  padding-bottom: 0px !important;
+  border-bottom: none !important;
+}
+.header {
+  color: #36a0ff;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36a0ff;
+}
